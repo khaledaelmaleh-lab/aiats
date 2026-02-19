@@ -24,7 +24,7 @@ export default function Home() {
           <div className="flex items-center justify-between">
             <div className="flex items-center">
               <Image
-                src="/logo.svg"
+                src="/aiats/logo.svg"
                 alt="Bona"
                 width={120}
                 height={40}
@@ -48,7 +48,7 @@ export default function Home() {
             <div className="relative mx-auto mb-3 w-12 h-12">
               <div className="absolute inset-0 rounded-full bg-white blur-lg scale-[1.5] animate-fade-up" style={{animationDelay: "0.05s", opacity: "0.3 !important"}}/>
               <Image
-                src="/logo-animated.gif"
+                src="/aiats/logo-animated.gif"
                 alt="Bona"
                 width={48}
                 height={48}
@@ -81,7 +81,7 @@ export default function Home() {
         <div className="relative container mx-auto flex-1">
           <VideoPlayer
             src="https://www.w3schools.com/html/mov_bbb.mp4"
-            poster="/thumbnail.png"
+            poster="/aiats/thumbnail.png"
             className="absolute inset-0"
           />
         </div>
@@ -128,7 +128,7 @@ export default function Home() {
             <div>
               <div className="mb-4">
                 <Image
-                  src="/logo.svg"
+                  src="/aiats/logo.svg"
                   alt="Bona"
                   width={120}
                   height={40}

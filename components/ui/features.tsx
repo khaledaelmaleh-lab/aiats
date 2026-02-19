@@ -110,7 +110,7 @@ export default function Features() {
           <div className="relative mx-auto mb-3 w-12 h-12">
             <div className="absolute inset-0 rounded-full bg-white blur-lg scale-[1.5] animate-fade-up" style={{ animationDelay: "0.05s", opacity: "0.3 !important" }} />
             <Image
-              src="/logo-animated.gif"
+              src="/aiats/logo-animated.gif"
               alt="Bona"
               width={48}
               height={48}

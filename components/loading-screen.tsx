@@ -34,7 +34,7 @@ export function LoadingScreen() {
       style={{ opacity: fading ? 0 : 1 }}
     >
       <Image
-        src="/logo-animated.gif"
+        src="/aiats/logo-animated.gif"
         alt="Loading"
         width={64}
         height={64}
